@@ -268,12 +268,12 @@ function About() {
     1040 + r
   );
   text(
-    "Desa ini terletak sekitar 25 kilometer dari ibu kota Kabupaten Lampung ",
+    "Desa ini terletak sekitar 50 kilometer dari ibu kota Kabupaten Lampung ",
     110,
     1060 + 2 * r
   );
   text(
-    "Selatan, Kota Kalianda, dan sekitar 50 kilometer dari ibu kota Provinsi ",
+    "Selatan, Kota Kalianda, dan sekitar 15 kilometer dari ibu kota Provinsi ",
     110,
     1080 + 3 * r
   );
